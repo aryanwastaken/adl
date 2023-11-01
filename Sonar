@@ -1,0 +1,4 @@
+sonar.projectKey=exp10
+sonar.projectName=exp10
+sonar.projectversion=1.0
+sonar.sources= pathof file
